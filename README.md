@@ -6,5 +6,5 @@ Biostatistics, MS | University of Michigan, MI | 2026 | GPA: 3.58
 Mathematics, BS | Pacific Lutheran University, WA | 2024 | GPA: 3.95
 
 ### Projects
-[“The Impact of Sleep Trouble & Lifestyle Factors on HDL Cholesterol”](file:///Users/mackenziemueller/Downloads/Group_13_650_Final_Project.pdf)
+[“The Impact of Sleep Trouble & Lifestyle Factors on HDL Cholesterol”](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:576285e3-be42-34bf-8875-071d3af672ef)
 
