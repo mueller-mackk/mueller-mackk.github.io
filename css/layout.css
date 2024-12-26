@@ -80,8 +80,8 @@ header:before {
 }
 header .banner {
    display: inline-block;
-   vertical-align: top;
-   margin: 200 auto;
+   vertical-align: middle;
+   margin: 0 auto;
    width: 85%;
    padding-bottom: 30px;s
    text-align: center;
