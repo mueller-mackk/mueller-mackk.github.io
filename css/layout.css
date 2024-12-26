@@ -60,20 +60,24 @@ body { background: #0f0f0f; }
 /* ------------------------------------------------------------------ */
 
 header {
-  position: relative;
-  min-height: 500px; /* You can set a smaller height */
-  width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
-  background-size: cover !important;
-  -webkit-background-size: cover !important;
-  text-align: center;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start; /* Aligns the content to the top */
-  padding-top: 300px; /* Add padding if you need a bit of space from the top */
+   position: relative;
+   height: 800px;
+   min-height: 500px;
+   width: 100%;
+   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   text-align: center;
+   overflow: hidden;
 }
 
+/* vertically center banner section */
+header:before {
+   content: '';
+   display: inline-block;
+   vertical-align: middle;
+   height: 100%;
+}
 header .banner {
    display: inline-block;
    vertical-align: top;
