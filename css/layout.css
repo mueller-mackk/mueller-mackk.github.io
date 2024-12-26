@@ -83,8 +83,8 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
-   padding-top: 30px;
+   padding-bottom: 30px;s
+   padding-top: 30px;s
    text-align: top;
 }
 
@@ -94,6 +94,7 @@ header .banner-text h1 {
    color: #fff;
    letter-spacing: -2px;
    text-align: top;
+
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
