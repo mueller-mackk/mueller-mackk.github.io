@@ -71,10 +71,9 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: flex-start; /* Aligns the content to the top */
-  padding-top: 20px; /* Add padding if you need a bit of space from the top */
+  padding-top: 300px; /* Add padding if you need a bit of space from the top */
 }
 
-/* vertically center banner section */
 header .banner {
    display: inline-block;
    vertical-align: top;
