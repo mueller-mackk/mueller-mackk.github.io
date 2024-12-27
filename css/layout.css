@@ -263,7 +263,7 @@ ul#nav li.current a { color: #fdb0c0; }
 .intro-info img {
   height: 12rem;
   width: 12rem;
-  border:1px solid #0FA4AF;
+  border:1px solid #2A5470;
   border-radius: 50%;
   margin: 0.9rem 1rem 0 2rem;
   float: left;
@@ -326,8 +326,8 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 
 .button-section .button:hover {
-  background-color: #0FA4AF; /* Darker orange on hover */
-  border-color: #0FA4AF; /* Darker orange border on hover */
+  background-color: #fdb0c0;
+  border-color: #fdb0c0;
 }
 
 .button-section [class*="col-"] .button:first-child {
