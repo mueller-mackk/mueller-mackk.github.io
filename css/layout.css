@@ -317,8 +317,19 @@ ul#nav li.current a { color: #ff5B00; }
   text-align: center;
 }
 .button-section .button {
-  width: 250px;
+  background-color: #F06000; /* Orange background color */
+  color: #fff; /* White text */
+  border: 1px solid #F06000; /* Orange border */
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
 }
+
+.button-section .button:hover {
+  background-color: #0FA4AF; /* Darker orange on hover */
+  border-color: #0FA4AF; /* Darker orange border on hover */
+}
+
 .button-section [class*="col-"] .button:first-child {
   margin-right: 4rem;
 }
