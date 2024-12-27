@@ -263,7 +263,7 @@ ul#nav li.current a { color: #ff5B00; }
 .intro-info img {
   height: 12rem;
   width: 12rem;
-  border:1px solid #495D40;
+  border:1px solid #0FA4AF;
   border-radius: 50%;
   margin: 0.9rem 1rem 0 2rem;
   float: left;
@@ -296,7 +296,7 @@ ul#nav li.current a { color: #ff5B00; }
 }
 .about-content .info-list li strong {
   font-family: 'opensans-bold', sans-serif;
-  color: #313131;
+  color: #0FA4AF;
   text-transform: uppercase;
   letter-spacing: .2rem;
   font-size: 1.5rem;
