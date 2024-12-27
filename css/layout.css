@@ -960,12 +960,13 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 
 #activities p {
-  text-align: center;
+  text-align: left;
 }
 
 #activities p strong {
   display: inline-block; /* To make it align with the list */
   margin-right: 10px; /* Adjust spacing as necessary */
+  text-align: center;
 }
 
 #activities ul {
