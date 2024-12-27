@@ -780,7 +780,7 @@ ul#nav li.current a { color: #fdb0c0; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: #fdb0c0; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
