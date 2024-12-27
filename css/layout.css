@@ -965,7 +965,7 @@ ul#nav li.current a { color: #fdb0c0; }
  * ------------------------------------------------------------------- 
  */
 #stats {
-  background: #8FC1E3;
+  background: #fdb0c0;
   padding-top: 7.2rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -1113,7 +1113,7 @@ ul#nav li.current a { color: #fdb0c0; }
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #2a4242;
    font-size: 14px;
    text-align: center;
    position: relative;
