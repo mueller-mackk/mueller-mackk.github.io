@@ -581,7 +581,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #3d4145;
+   background: #0FA4AF;
    color: #fff;
 }
 
@@ -590,7 +590,7 @@ button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-   background: #3d4145;
+   background: #0FA4AF;
    color: #fff;
 }
 
