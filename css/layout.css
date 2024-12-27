@@ -963,6 +963,20 @@ ul#nav li.current a { color: #fdb0c0; }
   text-align: center;
 }
 
+#activities p strong {
+  display: inline-block; /* To make it align with the list */
+  margin-right: 10px; /* Adjust spacing as necessary */
+}
+
+#activities ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#activities ul li {
+  margin-left: 20px; /* To create indentation and align items */
+}
+
 
 /** 
  * ===================================================================
