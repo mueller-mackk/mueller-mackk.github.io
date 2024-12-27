@@ -945,7 +945,7 @@ ul#nav li.current a { color: #fdb0c0; }
 
 #activities .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: #fff;
    margin-bottom: 18px;
    margin-top: 9px;
    text-align: center;
@@ -960,7 +960,7 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 
 #activities p {
-  text-align: left;
+  text-align: center;
 }
 
 
