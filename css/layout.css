@@ -126,7 +126,7 @@ header .social li {
   padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #687864; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -148,7 +148,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #687864; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -954,7 +954,7 @@ ul#nav li.current a { color: #495D40; }
  * ------------------------------------------------------------------- 
  */
 #stats {
-  background: #11ABB0;
+  background: #8FC1E3;
   padding-top: 7.2rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -1054,7 +1054,7 @@ ul#nav li.current a { color: #495D40; }
   color: #495D40;
 }
 
-/*#contact {
+#contact {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
@@ -1093,9 +1093,7 @@ ul#nav li.current a { color: #495D40; }
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
 }
-#contact .header-col { padding-top: 6px; }*/
-
-
+#contact .header-col { padding-top: 6px; }
 
 /* ------------------------------------------------------------------ */
 /* i. Footer
