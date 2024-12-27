@@ -971,7 +971,7 @@ ul#nav li.current a { color: #fdb0c0; }
  * ------------------------------------------------------------------- 
  */
 #stats {
-  background: #fdb0c0;
+  background: #495D40;
   padding-top: 7.2rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -988,15 +988,15 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 #stats .icon-part i {
   font-size: 4.8rem;
-  color: #000000;
+  color: #fff;
 }
 #stats .stat-count {
-  color: #FFFFFF;
+  color: #Fdb0c0 ;
   font-size: 3.6rem;
   margin-top: 1.2rem;
   margin-bottom: 0;
   font-family: "poppins-medium", sans-serif;
-  color: white;
+  color: Fdb0c0 ;
 }
 #stats .stat-title {
   color: rgba(255, 255, 255, 0.5);
