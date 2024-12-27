@@ -392,7 +392,7 @@ ul#nav li.current a { color: #fdb0c0; }
   background: #313131;
   border-radius: 50%;
   text-align: center;
-  color: #FFFFFF;
+  color: #000;
   position: absolute;
   left: 35%;
   top: .9rem;
@@ -416,7 +416,7 @@ ul#nav li.current a { color: #fdb0c0; }
 #resume .timeline-header p {
   font-family: "poppins-regular", sans-serif;
   font-size: 1.6rem;
-  color: #ffffff;
+  color: #000;
 }
 #resume .timeline-content {
   margin-left: 35%;
