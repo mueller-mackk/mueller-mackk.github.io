@@ -48,7 +48,7 @@ body { background: #0f0f0f; }
   margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-  color: #F06000;
+  color: #495D40;
   font-size: 1.6rem;
   line-height: 1.875;
   margin-bottom: 0.3rem;
@@ -211,7 +211,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #495D40; }
 
 .banner__content {
   padding: 5px;
@@ -263,7 +263,7 @@ ul#nav li.current a { color: #F06000; }
 .intro-info img {
   height: 12rem;
   width: 12rem;
-  border:1px solid #F06000;
+  border:1px solid #495D40;
   border-radius: 50%;
   margin: 0.9rem 1rem 0 2rem;
   float: left;
@@ -343,7 +343,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume .resume-header h2 {
-  color: #F06000
+  color: #495D40
 }
 
 #resume .resume-timeline {
@@ -922,7 +922,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #activities h3 {
-  color: #F06000;
+  color: #495D40;
   text-align: center;
 }
 
@@ -1028,7 +1028,7 @@ ul#nav li.current a { color: #F06000; }
   color: white;
 }
 #contact .section-intro h5 {
-  color: #F06000;
+  color: #495D40;
 }
 #contact .section-intro p {
   color: rgba(255, 255, 255, 0.7);
@@ -1051,7 +1051,7 @@ ul#nav li.current a { color: #F06000; }
   color: #FFFFFF;
 }
 .contact-info h5 {
-  color: #F06000;
+  color: #495D40;
 }
 
 /*#contact {
@@ -1148,7 +1148,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #495D40;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
