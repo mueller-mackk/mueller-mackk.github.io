@@ -48,7 +48,7 @@ body { background: #7d7d7d; }
   margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-  color: #fdb0c0;
+  color: #a09195;
   font-size: 1.6rem;
   line-height: 1.875;
   margin-bottom: 0.3rem;
@@ -126,7 +126,7 @@ header .social li {
   padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #687864; }
+header .social li a:hover { color: #91a09c; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -148,7 +148,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #687864; }
+header .scrolldown a:hover { color: #91a09c; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -211,7 +211,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fdb0c0; }
+ul#nav li.current a { color: #a09195; }
 
 .banner__content {
   padding: 5px;
@@ -263,7 +263,7 @@ ul#nav li.current a { color: #fdb0c0; }
 .intro-info img {
   height: 12rem;
   width: 12rem;
-  border:1px solid #2A5470;
+  border:1px solid #91a09c;
   border-radius: 50%;
   margin: 0.9rem 1rem 0 2rem;
   float: left;
@@ -296,7 +296,7 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 .about-content .info-list li strong {
   font-family: 'opensans-bold', sans-serif;
-  color: #fdb0c0;
+  color: #a09195;
   text-transform: uppercase;
   letter-spacing: .2rem;
   font-size: 1.5rem;
@@ -317,9 +317,9 @@ ul#nav li.current a { color: #fdb0c0; }
   text-align: center;
 }
 .button-section .button {
-  background-color: #2A5470;
+  background-color: #91a09c;
   color: #fff; 
-  border: 1px solid #2A5470;
+  border: 1px solid #91a09c;
   text-align: center;
 
   /* Increase size */
@@ -332,8 +332,8 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 
 .button-section .button:hover {
-  background-color: #fdb0c0;
-  border-color: #fdb0c0;
+  background-color: #a09195;
+  border-color: #a09195;
 }
 
 .button-section [class*="col-"] .button:first-child {
@@ -531,13 +531,13 @@ ul#nav li.current a { color: #fdb0c0; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #fdb0c0;
+  	background: #a09195;
   	height: 42px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #fdb0c0;
+   color: #a09195;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -780,7 +780,7 @@ ul#nav li.current a { color: #fdb0c0; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #fdb0c0; }
+.popup-modal a:hover {	color: #a09195; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -1006,7 +1006,7 @@ ul#nav li.current a { color: #fdb0c0; }
   color: #fff;
 }
 #stats .stat-count {
-  color: #Fdb0c0 ;
+  color: #a09195 ;
   font-size: 3.6rem;
   margin-top: 1.2rem;
   margin-bottom: 0;
@@ -1094,7 +1094,7 @@ ul#nav li.current a { color: #fdb0c0; }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #fdb0c0; }
+#contact a, #contact a:visited  { color: #a09195; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -1209,7 +1209,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #Fdb0c0; }
+#go-top a:hover { background-color: #a09195; }
 
 /* ------------------------------------------------------------------ */
 /* j. Others
@@ -1243,7 +1243,7 @@ footer .social-links li:first-child { margin-left: 0; }
   line-height: 2.4rem;
 }
 .skill-bars li .progress {
-  background: #Fdb0c0;
+  background: #a09195;
   position: relative;
   height: 100%;
 }
@@ -1256,7 +1256,7 @@ footer .social-links li:first-child { margin-left: 0; }
   color: white;
   font-size: 1.1rem;
   line-height: 1;
-  background: #Fdb0c0;
+  background: #a09195;
   padding: .6rem .6rem;
   border-radius: 3px;
 }
@@ -1267,7 +1267,7 @@ footer .social-links li:first-child { margin-left: 0; }
   margin-left: -5px;
   border-right: 5px solid transparent;
   border-left: 5px solid transparent;
-  border-top: 5px solid #Fdb0c0;
+  border-top: 5px solid #a09195;
   content: "";
 }
 
