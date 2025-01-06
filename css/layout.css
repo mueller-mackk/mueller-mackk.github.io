@@ -296,7 +296,7 @@ ul#nav li.current a { color: #a09195; }
 }
 .about-content .info-list li strong {
   font-family: 'opensans-bold', sans-serif;
-  color: #a09195;
+  color: #95BCCC;
   text-transform: uppercase;
   letter-spacing: .2rem;
   font-size: 1.5rem;
@@ -317,9 +317,9 @@ ul#nav li.current a { color: #a09195; }
   text-align: center;
 }
 .button-section .button {
-  background-color: #91a09c;
+  background-color: #a09195;
   color: #fff; 
-  border: 1px solid #91a09c;
+  border: 1px solid #a09195;
   text-align: center;
 
   /* Increase size */
@@ -332,8 +332,8 @@ ul#nav li.current a { color: #a09195; }
 }
 
 .button-section .button:hover {
-  background-color: #a09195;
-  border-color: #a09195;
+  background-color: #95BCCC;
+  border-color: #95BCCC;
 }
 
 .button-section [class*="col-"] .button:first-child {
