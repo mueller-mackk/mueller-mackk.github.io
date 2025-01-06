@@ -450,7 +450,7 @@ li p { }
 
 /* definition list */
 dl { margin: 12px 0; }
-dt { margin: 0; color:#2A5470 }
+dt { margin: 0; color:##5E556A }
 dd { margin: 0 0 0 20px; }
 
 /* Lining Definition Style Markup */
@@ -553,7 +553,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #2A5470
+   background: ##5E556A
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
