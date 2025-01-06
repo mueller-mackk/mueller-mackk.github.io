@@ -939,7 +939,7 @@ ul#nav li.current a { color: #a09195; }
 }
 
 #activities h3 {
-  color: #495D40;
+  color: #91a09c;
   text-align: center;
 }
 
@@ -986,7 +986,7 @@ ul#nav li.current a { color: #a09195; }
  * ------------------------------------------------------------------- 
  */
 #stats {
-  background: #495D40;
+  background: #91a09c;
   padding-top: 7.2rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -1060,7 +1060,7 @@ ul#nav li.current a { color: #a09195; }
   color: white;
 }
 #contact .section-intro h5 {
-  color: #495D40;
+  color: #91a09c;
 }
 #contact .section-intro p {
   color: rgba(255, 255, 255, 0.7);
@@ -1083,7 +1083,7 @@ ul#nav li.current a { color: #a09195; }
   color: #FFFFFF;
 }
 .contact-info h5 {
-  color: #495D40;
+  color: #91a09c;
 }
 
 #contact {
@@ -1178,7 +1178,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #495D40;
+    color: #91a09c;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
