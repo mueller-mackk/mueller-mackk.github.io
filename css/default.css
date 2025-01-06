@@ -377,7 +377,7 @@ hr { border: solid #E3E3E3; border-width: 1px 0 0; clear: both; margin: 11px 0 1
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #2A5470;
+   color: #91a09c;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
@@ -438,7 +438,7 @@ li p { }
    color: #313131;
 }
 .stats-tabs li a:hover {
-   color:#2A5470
+   color:#91a09c
 }
 .stats-tabs li a b {
 	display: block;
@@ -525,7 +525,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #2A5470
+   background-color: #91a09c
    color: #fff;
 }
 .pagination .inactive,
